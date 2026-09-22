@@ -98,3 +98,7 @@ for i in range (0,10):
 #for loop with 2 incriment
 for i in range (0,10,2):
     print(i)
+
+# String formatting example
+name = 'Fahad'
+print(f'Hello, {name}!')
