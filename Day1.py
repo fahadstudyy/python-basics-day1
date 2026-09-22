@@ -106,3 +106,7 @@ print(b)
 # String formatting example
 name = 'Fahad'
 print(f'Hello, {name}!')
+
+# List comprehension example
+squares = [n * n for n in range(5)]
+print(squares)
