@@ -102,3 +102,7 @@ for i in range (0,10,2):
 # A few more arithmetic examples
 b = x * y
 print(b)
+
+# String formatting example
+name = 'Fahad'
+print(f'Hello, {name}!')
